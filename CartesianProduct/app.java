@@ -1,7 +1,5 @@
 package CartesianProduct;
-import java.io.*;
-import java.util.*;
- 
+
 class GFG {
  
     static void findCart(char arr1[], char arr2[], char n,
@@ -20,7 +18,7 @@ class GFG {
         char arr1[] = { 'a', 'd', 'e', 'f', 'k' };
  
         // second set
-        char arr2[] = {  } ;
+        char arr2[] = {  'b'} ;
  
         char n1 = (char) arr1.length;
         char n2 = (char) arr2.length;
